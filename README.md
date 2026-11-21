@@ -1,4 +1,6 @@
-<!-- ═══════════════════════════════════════════════════════ --><!--                    CYBER HEADER                         --><!-- ═══════════════════════════════════════════════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learning+%7C+Building+%7C+Securing" /><br/><img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" /></div>
+<!-- ═══════════════════════════════════════════════════════ --><!--                    CYBER HEADER                         --><!-- ═══════════════════════════════════════════════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" alt="NW-Arnauld Cyber Header" /><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learning+%7C+Building+%7C+Securing" alt="Typing animation" /><br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views" /></div>---
 
 👨🏽‍💻 WHO AM I? | QUI SUIS-JE ?
 
@@ -18,11 +20,13 @@ Passionné par les technologies, je m'intéresse principalement à la cybersécu
 
 🔐 01. CYBERSECURITY | CYBERSÉCURITÉ
 
-<img align="right" width="280" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />Cybersecurity is my first area of interest.
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Cybersecurity animation" />
+</div>Cybersecurity is my first area of interest.
 
 I'm exploring practical security concepts through personal labs, network analysis and hands-on exercises.
 
-Areas of interest:
+Areas of interest
 
 - Network security
 - Vulnerability assessment
@@ -31,7 +35,7 @@ Areas of interest:
 - Ethical hacking
 - Network monitoring
 
-Tools I'm exploring:
+Tools I'm exploring
 
 "Kali Linux" (https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 "Nmap" (https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
@@ -45,7 +49,7 @@ Tools I'm exploring:
 
 My telecommunications background gives me a strong interest in computer networks and infrastructure.
 
-Areas of interest:
+Areas of interest
 
 - TCP/IP networking
 - Routing and Switching
@@ -54,7 +58,7 @@ Areas of interest:
 - Network administration
 - Virtualization and network simulation
 
-Technologies and tools:
+Technologies and tools
 
 "Cisco" (https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 "Windows Server" (https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -68,17 +72,17 @@ Technologies and tools:
 
 I also enjoy designing applications and building software solutions to solve real-world problems.
 
-Technologies I'm learning and using:
+Technologies I'm learning and using
 
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"CSharp" (https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+"CSharp" (https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 "JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 "TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 "React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 "Node.js" (https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 "FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-Databases and tools:
+Databases and development tools
 
 "MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 "PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -119,13 +123,15 @@ Technology: TypeScript
 
 A practical networking project focused on securing the Layer 2 network infrastructure of an agency.
 
-🔗 "Explore my repositories" (https://github.com/juste0283-prog?tab=repositories)
+🔗 "Explore my GitHub repositories" (https://github.com/juste0283-prog?tab=repositories)
 
 
 
 📊 05. GITHUB STATISTICS
 
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=juste0283-prog&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juste0283-prog&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=FFFFFF" /><img width="75%" src="https://streak-stats.demolab.com?user=juste0283-prog&theme=chartreuse-dark&hide_border=true&background=050505&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" /></div>---
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=juste0283-prog&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" alt="GitHub statistics" /><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juste0283-prog&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00FF9C&text_color=FFFFFF" alt="Most used languages" /><br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=juste0283-prog&theme=chartreuse-dark&hide_border=true&background=050505&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" alt="GitHub contribution streak" /></div>---
 
 🎯 06. MY OBJECTIVES | MES OBJECTIFS
 
@@ -140,10 +146,12 @@ A practical networking project focused on securing the Layer 2 network infrastru
 
 📡 07. LET'S CONNECT | RESTONS EN CONTACT
 
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-juste0283--prog-181717?style=for-the-badge&logo=github)" (https://github.com/juste0283-prog)
+<div align="center"><a href="https://github.com/juste0283-prog">
+<img src="https://img.shields.io/badge/GitHub-juste0283--prog-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+</a><br/><br/>
 
 Open to learning, collaboration and innovative projects.
 
 Building skills. Securing systems. Creating solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B2F,100:050505&height=110&section=footer" width="100%" /></div>
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B2F,100:050505&height=110&section=footer" width="100%" alt="Cyber footer" /></div>
