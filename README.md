@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════ --><!--                    CYBER HEADER                         --><!-- ═══════════════════════════════════════════════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learning+%7C+Building+%7C+Securing" /><br/><img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" /></div>---
+<!-- ═══════════════════════════════════════════════════════ --><!--                    CYBER HEADER                         --><!-- ═══════════════════════════════════════════════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learning+%7C+Building+%7C+Securing" /><br/><img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" /></div>
 
 👨🏽‍💻 WHO AM I? | QUI SUIS-JE ?
 
@@ -14,7 +14,7 @@ Passionné par les technologies, je m'intéresse principalement à la cybersécu
 
 🎯 My philosophy: Learn, Practice, Build and Secure.
 
----
+
 
 🔐 01. CYBERSECURITY | CYBERSÉCURITÉ
 
@@ -39,7 +39,7 @@ Tools I'm exploring:
 "Metasploit" (https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 "Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+
 
 🌐 02. NETWORKS & INFRASTRUCTURE | RÉSEAUX
 
@@ -62,7 +62,7 @@ Technologies and tools:
 "VMware" (https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 "Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
+
 
 💻 03. SOFTWARE DEVELOPMENT | DÉVELOPPEMENT LOGICIEL
 
@@ -87,7 +87,7 @@ Databases and tools:
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 "VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+
 
 🚀 04. FEATURED PROJECTS | PROJETS
 
@@ -121,7 +121,7 @@ A practical networking project focused on securing the Layer 2 network infrastru
 
 🔗 "Explore my repositories" (https://github.com/juste0283-prog?tab=repositories)
 
----
+
 
 📊 05. GITHUB STATISTICS
 
@@ -136,7 +136,7 @@ A practical networking project focused on securing the Layer 2 network infrastru
 - 🤝 Collaborate on open-source projects.
 - 📚 Learn continuously and share knowledge.
 
----
+
 
 📡 07. LET'S CONNECT | RESTONS EN CONTACT
 
