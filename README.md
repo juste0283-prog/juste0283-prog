@@ -43,7 +43,7 @@ Areas of interest | Domaines d'intérêt
 
 Tools and technologies | Outils
 
-"Kali Linux" (https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Kali Linux] (https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 "Nmap" (https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
 "Wireshark" (https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 "Metasploit" (https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
