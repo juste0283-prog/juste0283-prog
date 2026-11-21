@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════ --><!--                    CYBER HEADER                         --><!-- ═══════════════════════════════════════════════════════ --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=Telecommunications%20Engineering%20Student&descAlignY=55&descSize=18" width="100%" alt="NW-Arnauld Cyber Header" /><br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learning+%7C+Building+%7C+Securing" alt="Typing animation" /><br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views" /></div>---
+<img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views" /></div>
 
 👨🏽‍💻 WHO AM I? | QUI SUIS-JE ?
 
