@@ -1,4 +1,4 @@
-<!-- ===================================================== --><!--                  CYBER HEADER                         --><!-- ===================================================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=TELECOMMUNICATIONS%20ENGINEERING%20%7C%20CYBERSECURITY&descAlignY=55&descSize=15" width="100%" alt="Cybersecurity Header"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learn+%7C+Practice+%7C+Build+%7C+Secure" alt="Typing SVG"/><br/><img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views"/></div>---
+<!-- ===================================================== --><!--                  CYBER HEADER                         --><!-- ===================================================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B2F,100:00FF9C&height=200&section=header&text=NW-ARNAULD&fontSize=55&fontColor=00FF9C&animation=fadeIn&fontAlignY=35&desc=TELECOMMUNICATIONS%20ENGINEERING%20%7C%20CYBERSECURITY&descAlignY=55&descSize=15" width="100%" alt="Cybersecurity Header"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Network+%26+Infrastructure+Explorer+%F0%9F%8C%90;Software+Developer+%F0%9F%92%BB;Learn+%7C+Practice+%7C+Build+%7C+Secure" alt="Typing SVG"/><br/><img src="https://komarev.com/ghpvc/?username=juste0283-prog&label=PROFILE%20VIEWS&color=00ff9c&style=for-the-badge" alt="Profile views"/></div>
 
 👨🏽‍💻 WHO AM I? | QUI SUIS-JE ?
 
@@ -43,11 +43,11 @@ Areas of interest | Domaines d'intérêt
 
 Tools and technologies | Outils
 
-![Kali Linux] (https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-"Nmap" (https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-"Wireshark" (https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-"Metasploit" (https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-"Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
@@ -68,11 +68,12 @@ Areas of interest | Domaines d'intérêt
 
 Technologies and tools | Technologies et outils
 
-"Cisco" (https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-"Windows Server" (https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-"pfSense" (https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
-"VMware" (https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-"Docker" (https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-00AEEF?style=for-the-badge)
+![GNS3](https://img.shields.io/badge/GNS3-4A90E2?style=for-the-badge)
 
 
 
@@ -84,31 +85,36 @@ J'aime concevoir des applications, développer des API et créer des solutions l
 
 Programming languages | Langages
 
-![Python](https://img.shields.io/badge/Python-3776AB?...)
-"CSharp" (https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Frameworks and technologies | Frameworks
 
-"React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-"Node.js" (https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-"Express" (https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 Databases | Bases de données
 
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-"SQLite" (https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Development tools | Outils de développement
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-"Android Studio" (https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
