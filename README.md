@@ -154,3 +154,5 @@ Open to learning, collaboration and innovative projects.
 Building skills. Securing systems. Creating solutions.
 
 <br/><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:003B2F,100:050505&height=110&section=footer" width="100%" alt="Cyber footer" /></div>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
